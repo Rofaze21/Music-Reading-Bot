@@ -1,21 +1,18 @@
 # Music-Reading-Bot
 A Music Reading Bot, created from scratch, that utilizes IR sensors in a grid to correctly identify and play tones that correspond with it. 
 
+<img width="426" alt="Robot on Board" src="https://user-images.githubusercontent.com/25015977/59205533-ba4d5280-8b68-11e9-98f8-bce6a2843ce1.png">
 
-![Robot on Board]("https://github.com/Rofaze21/Music-Reading-Bot/blob/master/Pictures/Robot%20on%20Board.png")
+<img width="532" alt="obot Sensors" src="https://user-images.githubusercontent.com/25015977/59205642-e8cb2d80-8b68-11e9-8ade-ccbb4a6b4e9d.png">
 
+<img width="430" alt="Robot Board" src="https://user-images.githubusercontent.com/25015977/59205531-ba4d5280-8b68-11e9-9fbd-ca41c17af97a.png">
 
-![Robot Board]("https://github.com/Rofaze21/Music-Reading-Bot/blob/master/Pictures/Robot%20Board.png")
+<img width="446" alt="Robot Box" src="https://user-images.githubusercontent.com/25015977/59205532-ba4d5280-8b68-11e9-8482-29f8b021e066.png">
 
-![Robot Sensors]("https://github.com/Rofaze21/Music-Reading-Bot/blob/master/Pictures/obot%20Sensors.png")
-
-![Robot Sensors Side View]("https://github.com/Rofaze21/Music-Reading-Bot/blob/master/Pictures/Robot%20Sensors%20Side%20View.png")
-
-![Robot Box]("https://github.com/Rofaze21/Music-Reading-Bot/blob/master/Pictures/Robot%20Box.png")
-
+<img width="452" alt="Robot Sensors Side View" src="https://user-images.githubusercontent.com/25015977/59205535-bae5e900-8b68-11e9-9270-d1570d227e56.png">
 
 Credits 
 ________
-Roshaan 
-Naranchimeg Altai 
+Roshaan,
+Naranchimeg Altai,
 Adin Kramer
