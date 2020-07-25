@@ -1,4 +1,4 @@
-# Music Reading Bot
+# 🎵 Music Reading Bot
 
 A Music Reading robot that plays basic tunes according to where you place pieces on a music board. The robot utilizes a series of IR sensors in a grid to identify and play tones that correspond with it. 
 
